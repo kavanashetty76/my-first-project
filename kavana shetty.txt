@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>awesome animal</title>
+<style>
+
+P
+{
+border-style:solid,
+border-top-color:red;
+border-bottom-color:blue; 
+}
+.dog
+{
+position:absolute;
+top:150px;
+left:350px;
+}
+.Cow
+{
+position:absolute;
+top: 400px,
+left:350px;
+}
+h2
+{
+color:tomato;
+{
+</style>
+</head>
+<body bgcolor="pink">
+<font color="red">
+<h1>awesome animals</h1>
+</font>
+<h2>dog</h2>
+<img src="dog jpg"/>
+<div class="dog">
+<p align="center">
+dog's sneeze when play fighting to show they are playing and </br>don't want to hurt you </p>
+</div>
+<h2>cow</h2>
+<img src="cow.jpg" width="300px" height="300px"/>
+<div class="cow">
+<p align="center">
+cows do have best friends and become stressed when </br>they are separated</p>
+</div>
+</body
+</html>
